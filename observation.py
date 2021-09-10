@@ -1,0 +1,1 @@
+def observation(d1,alpha1,beta1,d2,alpha2,beta2):
